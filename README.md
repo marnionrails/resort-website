@@ -24,7 +24,7 @@ _A website for Blue Wind Resort, with pages for accomodations, activities, trave
 
 ## Known Bugs
 
-* _None yet_
+* _The activities page does not have content_
 
 ## License
 
